@@ -1,0 +1,2 @@
+# latihanpertama
+Sistem informasi kependudukan
